@@ -232,7 +232,7 @@ nav ul li a:hover::after{
 .work:hover .layer{
     height: 100%;
 }
-/* .btn{
+.btn{
     display: block;
     margin: 50px auto;
     width: fit-content;
@@ -244,7 +244,7 @@ nav ul li a:hover::after{
 }
 .btn:hover{
     background: #ff004f;
-} */
+}
 
 /* contact section */
 
@@ -277,6 +277,7 @@ nav ul li a:hover::after{
 .btn.btn2{
     display: inline-block;
     background: #ff004f;
+    padding: 20px;
 }
 .contact-right{
     flex-basis: 60%;
